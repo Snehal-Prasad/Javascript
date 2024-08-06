@@ -31,6 +31,8 @@ const myfunction= function(){
     console.log("hello world");
 }
 
-console.log(typeof myfunction );
+console.log(typeof myfunction
+    
+ );
 
 
