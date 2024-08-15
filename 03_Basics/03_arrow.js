@@ -49,3 +49,7 @@ const  chai = () => {
 // const addtwo =(num1, num2) => ( num1 +num2 )        // if it is wraped in () we don't need to write return but if we wrap in{} we need to write return
 const addtwo =(num1, num2) => ( {username : " snehal"}) // even if we want to return object we need to wrap it in () 
 console.log(addtwo(3, 4));
+
+// const myArray = [2, 5, 3, 7, 8]
+
+// myArray.forEach()
